@@ -632,23 +632,6 @@ ul {
 
 /* Media Queries */
 
-@media only screen and (max-width:480px) {
-  .center-flex-container {
-    max-width: 300px;
-  }
-  .img{
-    width: 2rem;
-    height: 2rem;
-    margin-top: 60px;
-  }
-  .left-flex-container {
-    display: none;
-  }
-  .right-flex-container {
-    display: none;
-  }
-  
-}
 
 
 
