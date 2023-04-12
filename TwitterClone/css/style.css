@@ -419,7 +419,7 @@ ul {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
-  padding: 0.1rem 1rem;
+  padding: 0.5rem 1rem;
   border-bottom: 1px solid rgb(230, 236, 240);
 }
 .nav-list:hover {
