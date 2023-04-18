@@ -409,9 +409,13 @@ i:hover, .mail-box .mail-header .content:hover {
     align-items: center;
     margin-right: 1rem;
     background: #fff;
-    overflow: hidden;
-     
+    overflow: hidden;  
   }
+
+  .mail-box .mail-header .mail-header-item:hover {
+    background: rgba(0, 0, 0, 0.03);
+  }
+
 
   .mail-box .mail-header .mail-header-item:first-child {
     color: #1a73e8;
